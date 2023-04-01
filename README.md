@@ -9,9 +9,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sti1one/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/STI1ONE)
 
-Joined Github **3** years ago.
-
-Like My Work?
+Joined Github **2** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
