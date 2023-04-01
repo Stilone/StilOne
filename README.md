@@ -17,7 +17,7 @@ Joined Github **2** years ago.
 
 - 🛠 &nbsp; I’m currently working with Material-UI, Styled-component, React, <br /> Graphql, Javascript, Typescript.
 - 🚀 &nbsp; I am currently improving my skills and actively learning English.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
