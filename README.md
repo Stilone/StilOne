@@ -23,7 +23,6 @@ Joined Github **2** years ago.
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
-<img align="right" height="250" width="375" alt="" src="https://media.discordapp.net/attachments/989739840067207219/1080120281173065728/gothic_cyberpunk_with_the_addition_of_a_city_backgr_7423d136-96bd-4c23-9bd0-b9f8e38d8516.png?width=609&height=609" />
 
 ### My Absolute Favorites:
 
