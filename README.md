@@ -11,7 +11,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 Joined Github **2** years ago.
 
-<img align="right" height="250" width="375" alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif" />
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/3b/4d/45/3b4d450c7dc41302c28017ccf339460a.gif" />
 
 ### Talking about Personal Stuffs:
 
