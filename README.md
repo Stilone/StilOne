@@ -13,6 +13,8 @@ Joined Github **2** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUzMWZkNTM0OTc0ZmU5YjBlNGNkNThiZGVhNGYxZWM5YWE3ODhlMiZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
+
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Material-UI, Styled-component, React, <br /> Graphql, Javascript, Typescript.
