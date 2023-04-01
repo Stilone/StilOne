@@ -23,6 +23,8 @@ Joined Github **2** years ago.
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
@@ -46,15 +48,6 @@ Joined Github **2** years ago.
 -->
 
 ### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
