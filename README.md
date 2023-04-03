@@ -43,10 +43,9 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### My Stats:
-
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
