@@ -48,16 +48,16 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-:white_check_mark: Javascript    
-:white_check_mark: TypeScript
-:white_check_mark: CSS 
-:white_check_mark: SCSS 
-:white_check_mark: REACT 
-:white_check_mark: Redux 
-:white_check_mark: Graphql 
-:white_check_mark: FramerMotion
-:white_check_mark: Unit tensting
-:black_square_button: Docker + level up
-:black_square_button: webpack + level up
+:white_check_mark: Javascript <br />   
+:white_check_mark: TypeScript <br />
+:white_check_mark: CSS <br />
+:white_check_mark: SCSS <br />
+:white_check_mark: REACT <br />
+:white_check_mark: Redux <br />
+:white_check_mark: Graphql <br />
+:white_check_mark: FramerMotion <br />
+:white_check_mark: Unit tensting <br />
+:black_square_button: Docker + level up <br />
+:black_square_button: webpack + level up <br />
 :black_square_button: NodeJs
 #
