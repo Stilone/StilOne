@@ -48,7 +48,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-:white_check_mark: Javascript <br />   
+:white_check_mark: Javascript   
 :white_check_mark: TypeScript <br />
 :white_check_mark: CSS <br />
 :white_check_mark: SCSS <br />
