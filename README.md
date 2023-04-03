@@ -43,7 +43,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### My Stats:
 
