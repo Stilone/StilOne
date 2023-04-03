@@ -20,7 +20,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 - 🚀 &nbsp; I am currently improving my skills and actively learning English.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: I'm gosu A+ rank in WoW.
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Stilone/StilOne/blob/main/Resume%20Frontend-developer.pdf).
 
@@ -28,7 +28,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; combine functionality and eye-catching animations in the UI.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
