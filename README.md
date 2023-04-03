@@ -24,6 +24,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Stilone/StilOne/blob/main/Resume%20Frontend-developer.pdf).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Absolute Favorites:
 
@@ -46,6 +47,4 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
