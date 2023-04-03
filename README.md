@@ -52,10 +52,10 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 :white_check_mark: TypeScript <br />
 :white_check_mark: CSS <br />
 :white_check_mark: SCSS <br />
+:white_check_mark: FramerMotion <br />
 :white_check_mark: REACT <br />
 :white_check_mark: Redux <br />
 :white_check_mark: Graphql <br />
-:white_check_mark: FramerMotion <br />
 :white_check_mark: Unit tensting <br />
 :black_square_button: Docker + level up <br />
 :black_square_button: webpack + level up <br />
