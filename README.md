@@ -27,9 +27,9 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 💫 &nbsp; combine functionality and eye-catching animations in the UI.
-- ♻️ &nbsp; I love CI/CD automation.
+- 💻 &nbsp; Exploring new tech stack and building cool stuffs.
+- 💫 &nbsp; Combine functionality and eye-catching animations in the UI.
+- ♻️ &nbsp; CI/CD automation.
 
 ### Languages and Tools:
 
