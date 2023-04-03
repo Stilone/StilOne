@@ -16,7 +16,7 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m excited in developing custom design system in <br />       Javascript, Typescript, React, Graphql.
+- 🛠 &nbsp; I’m excited in developing custom design system in <br />         Javascript, Typescript, React, Graphql.
 - 🚀 &nbsp; I am currently improving my skills and actively learning English.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
