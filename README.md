@@ -46,15 +46,18 @@ I'm a self-taught front-end web developer who started from scratch and worked ha
 
 ### My Stats:
 
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+
+:white_check_mark: Javascript    
+:white_check_mark: TypeScript
+:white_check_mark: CSS 
+:white_check_mark: SCSS 
+:white_check_mark: REACT 
+:white_check_mark: Redux 
+:white_check_mark: Graphql 
+:white_check_mark: FramerMotion
+:white_check_mark: Unit tensting
+:black_square_button: Docker + level up
+:black_square_button: webpack + level up
+:black_square_button: NodeJs
 #
