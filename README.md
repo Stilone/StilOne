@@ -2,7 +2,13 @@
 
 
 
-I'm a self-taught front-end web developer who started from scratch and worked hard to get where I am today. I began by creating a website for selling phones using pure JavaScript, and went on to learn CSS and React. After a year of daily self-study, I began interviewing and honed my interview skills to land a job at a large government company where I have been working for over a year. I am currently working on a personal blog/portfolio website and improving my English skills. Additionally, I have participated in the development of a food startup and completed coding challenges on LeetCode to continue learning and growing my skills. My GitHub profile showcases my journey from beginner to professional and serves as a testament to my dedication and persistence in pursuing a career in programming.
+I am a self-taught front-end web developer who started from scratch and worked hard to reach where I am today. I successfully completed the Pochtatech bootcamp and received an offer at the state technology company RussianPost, which serves more than 80 million users.
+
+I started to create a website that uses pure JavaScript to sell mobile phones, and continued to learn CSS and react. After a year of daily self-study, I started interviewing and honed my interview skills in order to find a job in a large government company where I have been working for more two a year. 
+
+I am currently working on a personal blog/portfolio website and improving my English and Chinese language skills. In addition, I also participated in the development of a food startup company and completed the coding challenge on LeetCode to continue learning and developing my skills. 
+
+My GitHub profile shows my journey from beginner to professional, and proves my dedication and persistence in pursuing a programming career.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmitry-astashin-9ba69421a)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
