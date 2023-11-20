@@ -23,7 +23,7 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m excited in developing custom design system in React, <br /> while I keep exploring the best practices from such projects as <br /> Material-UI, Fluet-UI, Bootstrap, etc.
-- 🚀 &nbsp; I am currently improving my skills and actively learning English and Chineses.
+- 🚀 &nbsp; I am currently improving my skills and actively learning English and Chinese.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
 - 👾 &nbsp; Fun fact: I'm gosu A+ rank in WoW.
