@@ -15,6 +15,10 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/stil0ne/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/STI1ONE)
 
+<div id="badges">
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
