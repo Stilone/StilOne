@@ -62,5 +62,5 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 
 ### My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username-Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
