@@ -16,7 +16,7 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/STI1ONE)
 
 <div id="badges">
-   <img src="https://komarev.com/ghpvc/?username=your-github-username=StilOne&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=your-github-username-StilOne&style=flat-square&color=blue" alt=""/>
 </div>
 
 
