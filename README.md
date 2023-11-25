@@ -10,7 +10,7 @@ I am currently working on a personal blog/portfolio website and improving my Eng
 
 My GitHub profile shows my journey from beginner to professional, and proves my dedication and persistence in pursuing a programming career.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=000000&background=D4D5D43C&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=78746C&background=D4D5D400&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmitry-astashin-9ba69421a)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
