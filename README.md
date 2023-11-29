@@ -2,13 +2,13 @@
 
 
 
-I am a self-taught front-end web developer who started from scratch and worked hard to reach where I am today. I successfully completed the Pochtatech bootcamp and received an offer at the state technology company RussianPost, which serves more than 80 million users.
+I am a self-taught web developer who started from scratch and worked diligently to achieve what I have today. I successfully completed the Pochtatech training camp and received an offer from the RussianPost, a state technological company serving over 80 million users.
 
-I started to create a website that uses pure JavaScript to sell mobile phones, and continued to learn CSS and react. After a year of daily self-study, I started interviewing and honed my interview skills in order to find a job in a large government company where I have been working for more two a year. 
+I began my journey in programming by creating a website for selling mobile phones using pure JavaScript. Later, I delved into learning CSS and React. After a year of daily self-learning, I started attending interviews, honing my interview skills to secure a position in a major state-owned company where I have been working for over two years.
 
-I am currently working on a personal blog/portfolio website and improving my English and Chinese language skills. In addition, I also participated in the development of a food startup company and completed the coding challenge on LeetCode to continue learning and developing my skills. 
+Currently, I am working on a personal blog/portfolio website and enhancing my proficiency in English and Chinese languages. Additionally, I participated in the development of a startup in the food industry. I continue to improve my algorithmic skills by solving coding tasks on LeetCode.
 
-My GitHub profile shows my journey from beginner to professional, and proves my dedication and persistence in pursuing a programming career.
+My GitHub profile showcases my progression from a novice to a professional, demonstrating my dedication and perseverance in pursuing a career as a programmer.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=78746C&background=D4D5D400&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
 
