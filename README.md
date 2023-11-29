@@ -34,8 +34,8 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 📝 &nbsp; Checkout my [Resume site](https://astashin-resume.tech).
-- 📝 &nbsp; Checkout my [Resume linkedin](https://github.com/Stilone/StilOne/blob/main/Astashin%20linkedin.pdf).
-- 📝 &nbsp; Checkout my [Resume hh](https://github.com/Stilone/StilOne/blob/main/Astashin%20hh.pdf).
+- 📄 &nbsp; Checkout my [Resume linkedin](https://github.com/Stilone/StilOne/blob/main/Astashin%20linkedin.pdf).
+- 📄 &nbsp; Checkout my [Resume hh](https://github.com/Stilone/StilOne/blob/main/Astashin%20hh.pdf).
 
 
 ### My Absolute Favorites:
