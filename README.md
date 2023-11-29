@@ -32,9 +32,8 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 - 🚀 &nbsp; I am currently improving my skills and actively learning English and Chinese.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
-- 👾 &nbsp; Fun fact: I'm gosu A+ rank in WoW.
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Stilone/StilOne/blob/main/Resume%20Frontend-developer.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://astashin-resume.tech).
 
 
 ### My Absolute Favorites:
