@@ -13,7 +13,7 @@ My GitHub profile shows my journey from beginner to professional, and proves my 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=78746C&background=D4D5D400&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmitry-astashin-9ba69421a)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://astashin-resume.tech)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/stil0ne/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/STI1ONE)
 
