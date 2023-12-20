@@ -21,6 +21,7 @@ My GitHub profile showcases my progression from a novice to a professional, demo
    <img src="https://komarev.com/ghpvc/?username=your-github-username-StilOne&style=flat-square&color=blue" alt=""/>
 </div>
 
+#
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
