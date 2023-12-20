@@ -65,9 +65,9 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 ### My Stats:
 
-<div align="right">
-   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stilone&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-</div>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stilone&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
