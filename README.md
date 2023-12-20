@@ -33,9 +33,11 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Stilone?tab=repositories).
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
+- 🐒 I also train in tasks [LeetCode profile](https://leetcode.com/Stilone/).
 - 📝 &nbsp; Checkout my [Resume site](https://astashin-resume.tech).
 - 📄 &nbsp; Checkout my [Resume linkedin](https://github.com/Stilone/StilOne/blob/main/Astashin%20linkedin.pdf).
 - 📄 &nbsp; Checkout my [Resume hh](https://github.com/Stilone/StilOne/blob/main/Astashin%20hh.pdf).
+
 
 
 ### My Absolute Favorites:
@@ -68,8 +70,6 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stilone&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-[LeetCode profile](https://leetcode.com/Stilone/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
