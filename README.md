@@ -65,7 +65,7 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 ### My Stats:
 
-- &monkey; My [Resume LeetCode profile](https://leetcode.com/Stilone/).
+- 🐒:monkey: My [Resume LeetCode profile](https://leetcode.com/Stilone/).
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stilone&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
