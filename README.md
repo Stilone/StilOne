@@ -64,6 +64,7 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab"></code>
 
+#
 
 ### My Stats:
 
