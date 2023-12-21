@@ -71,7 +71,7 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" height="185" width="450" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
+<img align="right" height="185" width="430" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stilone&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
