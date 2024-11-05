@@ -73,7 +73,7 @@ My GitHub profile demonstrates my path from beginner to professional, demonstrat
 
 
 
-<img align="right" height="125" width="330" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
+<img align="right" height="50%" width="50%" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
 
 [![Stilone](https://leetcard.jacoblin.cool/Stilone?animation=true?theme=nord)](https://leetcode.com/u/Stilone/)
 
