@@ -73,7 +73,4 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 <img align="right" height="185" width="430" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Stilone)](https://github.com/Stilone/leetcode-stats)
-
-
 #
