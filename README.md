@@ -75,6 +75,6 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 <img align="right" height="185" width="430" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
 
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+![](https://leetcard.Stilone/Stilone?border=0&radius=20)
 
 #
