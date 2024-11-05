@@ -71,8 +71,10 @@ My GitHub profile showcases my progression from a novice to a professional, demo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stilone&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+
 
 <img align="right" height="185" width="430" alt="" src="https://media.giphy.com/media/C89ZdKRSfwDjY5w4Xa/giphy.gif" />
+
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
 
 #
