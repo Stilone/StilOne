@@ -1,14 +1,16 @@
 ## Hey 👋, I'm [Dmitry Astashin!](https://github.com/Stilone)
 
+I’m Dmitry Astashin, a self-taught web developer with 3 + years of production experience in high-load projects at Russian Post Tech ( > 80 million users). I entered the company through the Pochtatech Bootcamp and progressed from junior to lead features on three greenfield products.
 
+My journey began with a vanilla-JS e-commerce site for mobile phones; since then I’ve mastered React, TypeScript and modern CSS. Away from work I:
 
-I am a self-taught web developer who started from scratch and worked hard to achieve what I have today. I successfully completed the Pochtatech training camp and received an offer from Russian Post, a state-owned technology company serving more than 80 million users.
+- build a personal board-game/portfolio site (Next.js);
 
-I started my way in programming by creating a website for selling mobile phones using pure JavaScript. Later, I delved into the study of CSS and React. After a year of daily self-study, I started attending interviews, honing my interviewing skills to get a position at a large government company where I have been working for more than two years.
+- sharpen algorithms on LeetCode;
 
-I am currently working on a personal board game website/portfolio site and improving my knowledge of English and Chinese. In addition, I participated in the development of a startup in the food industry. I continue to improve my algorithmic skills by solving coding problems in LeetCode.
+- improve English and Chinese.
 
-My GitHub profile demonstrates my path from beginner to professional, demonstrating my dedication and perseverance in building a career as a programmer.
+My GitHub (github.com/Stilone) traces this path from first commits to present-day professional projects, reflecting the persistence and curiosity I bring to every codebase.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=78746C&background=D4D5D400&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
 
