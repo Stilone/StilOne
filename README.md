@@ -15,7 +15,7 @@ My GitHub (github.com/Stilone) traces this path from first commits to present-da
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=78746C&background=D4D5D400&random=false&width=1235&height=100&lines=%22Only+those+who+are+not+afraid+to+move+forward+can+discover+new+horizons.%22+-+Franklin+D.+Roosevelt;%22Only+through+constant+forward+movement+can+we+achieve+goals+that+seem+impossible.%22+-+Vince+Lombardi;%22Only+those+who+decide+to+move+can+see+how+the+road+unfolds+before+them.%22+-+Nelson+Mandela)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmitry-astashin-9ba69421a)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://astashin-resume.tech)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://stilone.github.io/astashin-resume)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/stil0ne/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/STI1ONE)
 
@@ -37,9 +37,9 @@ My GitHub (github.com/Stilone) traces this path from first commits to present-da
 - 💬 &nbsp; Your can ask me about my career [here](https://t.me/STI1ONE)! I will be glad to answer..
 - 📫 &nbsp; How to reach me: astashin2909@gmail.com.
 - 🐒 &nbsp; I also train in tasks [LeetCode profile](https://leetcode.com/Stilone/).
-- 📝 &nbsp; Checkout my [Resume site](https://astashin-resume.tech).
-- 📄 &nbsp; Checkout my [Resume linkedin](https://github.com/Stilone/StilOne/blob/main/Astashin%20linkedin.pdf).
-- 📄 &nbsp; Checkout my [Resume hh](https://github.com/Stilone/StilOne/blob/main/Astashin%20hh.pdf).
+- 📝 &nbsp; Checkout my [Resume site](https://stilone.github.io/astashin-resume).
+- 📄 &nbsp; Checkout my [Resume linkedin](https://#).
+- 📄 &nbsp; Checkout my [Resume hh](https://#).
 
 
 
