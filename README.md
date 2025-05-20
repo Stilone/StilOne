@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Dmitry Astashin!](https://github.com/Stilone)
+## Hey everyone 👋
 
 I’m Dmitry Astashin, a self-taught web developer with 3 + years of production experience in high-load projects at Russian Post Tech ( > 80 million users). I entered the company through the Pochtatech Bootcamp and progressed from junior to lead features on three greenfield products.
 
